@@ -98,7 +98,12 @@ const Home = () => {
           <Row>
             <Col lg="6" md="6">
               <div className="hero__content  ">
-                <h5 className="mb-3">Easy way to make an order</h5>
+                <h5 className="mb-3"
+                style={
+                  {color:"white",
+                  fontSize:"18px"
+                }
+                }>Easy way to make an order</h5>
                 <h1 className="mb-4 hero__title">
                   <span 
                   style={
@@ -147,14 +152,29 @@ const Home = () => {
                     <span className="shipping__icon">
                       <i class="ri-car-line"></i>
                     </span>{" "}
-                    No shipping charge
+                    <p
+                    style={
+                      {
+                        color:"white",
+                        marginBottom:"0px"
+                      }
+                    }
+                    >No shipping charge</p>
                   </p>
 
                   <p className=" d-flex align-items-center gap-2 ">
                     <span className="shipping__icon">
                       <i class="ri-shield-check-line"></i>
-                    </span>{" "}
-                    100% secure checkout
+                    </span>
+                    <p
+                    style={
+                      {
+                        color:"white",
+                        marginBottom:"0px"
+                      }
+                    }
+                    >
+                    100% secure checkout</p>
                   </p>
                 </div>
               </div>
