@@ -26,7 +26,7 @@ import ProductCard from "../components/UI/product-card/ProductCard.jsx";
 
 import whyImg from "../assets/images/location.png";
 
-import networkImg from "../assets/images/network.png";
+import networkImg from "../assets/images/1.png";
 
 import TestimonialSlider from "../components/UI/slider/TestimonialSlider.jsx";
 
@@ -103,10 +103,21 @@ const Home = () => {
                   <span 
                   style={
                     {
-                      fontFamily:"'Shantell Sans', cursive"
+                      fontFamily:"'Shantell Sans', cursive",
+                      color:"#ffc93c"
                     }
-                  }>ARE YOU HUNGRY  ?</span> Give us a few minutes <br /> food at
-                  <span> your table 😋</span>
+                  }><span style={
+                    {
+                      color:"#fff"
+                    }
+                  }>ARE YOU</span> HUNGRY ?</span> Give us few minutes <br />& food at
+                  <span style={
+                    {
+                      color:"#ffc93c",
+                      fontFamily:"'Shantell Sans', cursive"
+
+                    }
+                  }> your table 😋</span>
                 </h1>
 
                 <p style={
