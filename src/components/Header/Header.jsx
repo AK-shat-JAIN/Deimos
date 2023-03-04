@@ -60,13 +60,17 @@ const Header = () => {
       <Container>
         <div className="nav__wrapper d-flex align-items-center justify-content-between">
           <div className="logo">
-            <img src={logo} alt="logo" />
+            <img src={logo} alt="logo" style={
+              {
+                fontSize:"2 rem"
+              }
+            }/>
             <h5>Tasty Treat</h5>
           </div>
 
           {/* ======= menu ======= */}
           <div className="navigation" ref={menuRef} onClick={toggleMenu}>
-            <div className="menu d-flex align-items-center gap-5">
+            <div className="menu d-flex align-items-center gap-5" id="link">
               {nav__links.map((item, index) => (
                 <NavLink
                   to={item.path}
