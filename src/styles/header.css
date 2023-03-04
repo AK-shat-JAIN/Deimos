@@ -7,6 +7,7 @@
 .logo {
   text-align: center;
 }
+
 .logo img {
   /* width: calc(100% - 60%); */
   object-fit: contain;
@@ -70,12 +71,12 @@
   display: none;
 }
 
- 
+
 .header__shrink {
   position: sticky;
   top: 0;
   left: 0;
-  background: #fff;
+  background: black;
   z-index: 99999;
   box-shadow: 5px 5px 15px -5px #fde4e4;
 }
@@ -84,21 +85,22 @@
   .logo img {
     width: calc(100% - 70%);
   }
+
   .logo h5 {
     font-size: 0.8rem;
     margin-top: -15px;
   }
 
-    .navigation {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: rgba(251, 251, 251, 0.989);
-      z-index: 99;
-      display: none;
-    }
+  .navigation {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 99;
+    display: none;
+  }
 
   .menu {
     position: absolute;
@@ -143,6 +145,7 @@
   .logo img {
     margin-top: -70px !important;
   }
+
   .logo h5 {
     margin-top: -55px;
   }
