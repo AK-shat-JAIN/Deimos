@@ -60,16 +60,3 @@ By contributing, you agree that your contributions will be licensed under its MI
 This document was adapted from the open-source contribution guidelines for [Facebook's Draft](https://github.com/facebook/draft-js/blob/a9316a723f9e918afde44dea68b5f9f39b7d9b00/CONTRIBUTING.md)
 
 And the basic guide by briandk/CONTRIBUTING.md [The link to the file](https://gist.github.com/briandk/3d2e8b3ec8daf5a27a62)
-
-
-## Code of Conduct
-We are committed to creating a welcoming and inclusive environment for all contributors to Video-T0-Gif. This includes not only the code, but also the documentation, issues, and pull requests. To that end, we have adopted the following code of conduct:
-
-- Be respectful and professional in all interactions. This includes using inclusive language and avoiding discriminatory or offensive comments.
-- Follow the Style Guide for coding and documentation.
-- Document your code and include clear instructions for how to use it.
-- Provide accurate and up-to-date documentation for any new features or changes.
-- Be responsive to feedback on your documentation and make updates as necessary.
-- We will not tolerate any form of harassment or discrimination. If you experience or witness any violation of this code of conduct, please report it to the project maintainers.
-
-We appreciate your contributions and look forward to working with you 👍.
