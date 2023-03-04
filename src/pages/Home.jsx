@@ -197,16 +197,52 @@ const Home = () => {
         <Container>
           <Row>
             <Col lg="12" className="text-center">
-              <h5 className="feature__subtitle mb-4">What we serve</h5>
-              <h2 className="feature__title">Just sit back at home</h2>
-              <h2 className="feature__title">
-                we will <span>take care</span>
+              <h5 className="feature__subtitle mb-4"
+              style={
+                {
+                  color:"white"
+                }
+              }
+              >What we serve</h5>
+              <h2 className="feature__title"
+              style={
+                {
+                  color:"#8dc6ff"
+                }
+              }
+              >Just sit back at home</h2>
+              <h2 className="feature__title"
+              style={
+                {
+                  color:"#8dc6ff"
+                }
+              }
+              >
+                we will <span
+                style={
+                  {
+                    color:"#007cb9"
+                  }
+                }
+                >take care</span>
               </h2>
-              <p className="mb-1 mt-4 feature__text">
+              <p className="mb-1 mt-4 feature__text"
+              style={
+                {
+                  color:"white"
+                }
+              }
+              >
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor,
                 officiis?
               </p>
-              <p className="feature__text">
+              <p className="feature__text"
+              style={
+                {
+                  color:"white"
+                }
+              }
+              >
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Aperiam, eius.{" "}
               </p>
@@ -220,8 +256,20 @@ const Home = () => {
                     alt="feature-img"
                     className="w-25 mb-3"
                   />
-                  <h5 className=" fw-bold mb-3">{item.title}</h5>
-                  <p>{item.desc}</p>
+                  <h5 className=" fw-bold mb-3"
+                  style={
+                    {
+                      color:"#8dc6ff"
+                    }
+                  }
+                  >{item.title}</h5>
+                  <p
+                  style={
+                    {
+                      color:"white"
+                    }
+                  }
+                  >{item.desc}</p>
                 </div>
               </Col>
             ))}
@@ -233,19 +281,26 @@ const Home = () => {
         <Container>
           <Row>
             <Col lg="12" className="text-center">
-              <h2>Popular Foods</h2>
+              <h2
+              style={
+                {
+                  color:"#8dc6ff"
+                }
+              }
+              >Popular Foods</h2>
             </Col>
 
             <Col lg="12">
               <div className="food__category d-flex align-items-center justify-content-center gap-4">
                 <button
-                  className={`all__btn  ${
-                    category === "ALL" ? "foodBtnActive" : ""
+                  className={`all__btn d-flex align-items-center gap-2 ${
+                    category === "A;;" ? "foodBtnActive" : ""
                   } `}
                   onClick={() => setCategory("ALL")}
                 >
                   All
                 </button>
+
                 <button
                   className={`d-flex align-items-center gap-2 ${
                     category === "BURGER" ? "foodBtnActive" : ""
@@ -292,7 +347,13 @@ const Home = () => {
         <Container>
           <Row>
             <Col lg="12" className="text-center mb-5 ">
-              <h2>Hot Pizza</h2>
+              <h2
+              style={
+                {
+                  color:"#8dc6ff"
+                }
+              }
+              >Hot Pizza</h2>
             </Col>
 
             {hotPizza.map((item) => (
@@ -309,11 +370,22 @@ const Home = () => {
           <Row>
             <Col lg="6" md="6">
               <div className="testimonial ">
-                <h5 className="testimonial__subtitle mb-4">Testimonial</h5>
-                <h2 className="testimonial__title mb-4">
-                  What our <span>customers</span> are saying
+                <h2 className="testimonial__title mb-4"
+                style={
+                  {
+                    color:"#8dc6ff"
+                  }
+                }
+                >
+                  Customer's Review
                 </h2>
-                <p className="testimonial__desc">
+                <p className="testimonial__desc"
+                style={
+                  {
+                    color:"white"
+                  }
+                }
+                >
                   Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                   Distinctio quasi qui minus quos sit perspiciatis inventore
                   quis provident placeat fugiat!
