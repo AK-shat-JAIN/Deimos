@@ -1,4 +1,4 @@
-# Code of Conduct - MERN Youtube Clone
+# Code of Conduct - Las Deimos
 
 ## Our Pledge
 
