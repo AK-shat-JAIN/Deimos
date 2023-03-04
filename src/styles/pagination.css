@@ -23,5 +23,5 @@
 }
 
 .paginationBttns a:hover {
-  background: #df2020;
+  background: linear-gradient(to right,#FF6B00,#FFA800);
 }

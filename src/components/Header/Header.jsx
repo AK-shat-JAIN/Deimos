@@ -65,7 +65,7 @@ const Header = () => {
                 fontSize:"2 rem"
               }
             }/>
-            <h5>Tasty Treat</h5>
+            <h5>Las Demios</h5>
           </div>
 
           {/* ======= menu ======= */}
