@@ -26,7 +26,7 @@ import ProductCard from "../components/UI/product-card/ProductCard.jsx";
 
 import whyImg from "../assets/images/location.png";
 
-import networkImg from "../assets/images/network.png";
+import networkImg from "../assets/images/1.png";
 
 import TestimonialSlider from "../components/UI/slider/TestimonialSlider.jsx";
 
@@ -100,8 +100,24 @@ const Home = () => {
               <div className="hero__content  ">
                 <h5 className="mb-3">Easy way to make an order</h5>
                 <h1 className="mb-4 hero__title">
-                  <span>HUNGRY?</span> Just wait <br /> food at
-                  <span> your door</span>
+                  <span 
+                  style={
+                    {
+                      fontFamily:"'Shantell Sans', cursive",
+                      color:"#ffc93c"
+                    }
+                  }><span style={
+                    {
+                      color:"#fff"
+                    }
+                  }>ARE YOU</span> HUNGRY ?</span> Give us few minutes <br />& food at
+                  <span style={
+                    {
+                      color:"#ffc93c",
+                      fontFamily:"'Shantell Sans', cursive"
+
+                    }
+                  }> your table 😋</span>
                 </h1>
 
                 <p style={

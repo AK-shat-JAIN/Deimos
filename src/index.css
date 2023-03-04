@@ -14,7 +14,9 @@
 /* base style */
 
 body {
-  background: black;
+  /* background: black; */
+  /* background-color: #352f44; */
+  background: url('./assets/images/bg-img.png');
   font-family: "Istok Web", sans-serif;
 }
 
