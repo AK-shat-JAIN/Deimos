@@ -100,8 +100,13 @@ const Home = () => {
               <div className="hero__content  ">
                 <h5 className="mb-3">Easy way to make an order</h5>
                 <h1 className="mb-4 hero__title">
-                  <span>HUNGRY?</span> Just wait <br /> food at
-                  <span> your door</span>
+                  <span 
+                  style={
+                    {
+                      fontFamily:"'Shantell Sans', cursive"
+                    }
+                  }>ARE YOU HUNGRY  ?</span> Give us a few minutes <br /> food at
+                  <span> your table 😋</span>
                 </h1>
 
                 <p style={
