@@ -97,7 +97,7 @@ const Home = () => {
         <Container>
           <Row>
             <Col lg="6" md="6">
-              <div className="hero__content  ">
+              <div>
                 <h5 className="mb-3"
                 style={
                   {color:"white",
