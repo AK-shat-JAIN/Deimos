@@ -14,7 +14,9 @@
   color: #777;
 }
 
-
+#itemDesc{
+  background:none !important;
+}
 .food__category {
   background: #df2020;
   text-align: center;

@@ -3,6 +3,8 @@
   text-align: center;
   padding: 30px;
   cursor: pointer;
+  border-radius: 10px;
+  background-color: #fde4e4;
 }
 
 .product__img {
@@ -15,7 +17,7 @@
 }
 
 .product__content h5 a {
-  color: #212245;
+  color: #24264e;
   font-size: 1rem;
 }
 
