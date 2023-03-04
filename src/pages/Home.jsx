@@ -101,7 +101,8 @@ const Home = () => {
                 <h5 className="mb-3"
                 style={
                   {color:"white",
-                  fontSize:"18px"
+                  fontSize:"18px",
+                  paddingTop:"60px"
                 }
                 }>Easy way to make an order</h5>
                 <h1 className="mb-4 hero__title">

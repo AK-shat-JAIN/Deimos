@@ -59,7 +59,11 @@ const Header = () => {
     <header className="header" ref={headerRef}>
       <Container>
         <div className="nav__wrapper d-flex align-items-center justify-content-between">
-          <div className="logo">
+          <div className="logo" style={
+            {
+              marginTop:"25px"
+            }
+          }>
             <img src={logo} alt="logo" style={
               {
                 fontSize:"2 rem"
