@@ -26,12 +26,12 @@
 .menu a {
   font-weight: 600;
   font-size: 1rem;
-  color: #212245;
+  color: white;
   transition: 0.3s;
 }
 
 .menu a:hover {
-  color: linear-gradient(#FF6B00,#FFA800);
+      color: #ffa800
 }
 
 .active__menu {

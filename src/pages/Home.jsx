@@ -287,7 +287,7 @@ const Home = () => {
                   color:"#8dc6ff"
                 }
               }
-              >Popular Foods</h2>
+              >MENU</h2>
             </Col>
 
             <Col lg="12">
