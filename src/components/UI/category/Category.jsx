@@ -11,22 +11,22 @@ import "../../../styles/category.css";
 
 const categoryData = [
   {
-    display: "Fastfood",
-    imgUrl: categoryImg01,
+    display: "Mexican Food",
+    imgUrl: "https://cdn3d.iconscout.com/3d/premium/thumb/mexican-taco-food-icon-5273342-4411792.png",
   },
   {
-    display: "Pizza",
-    imgUrl: categoryImg02,
+    display: "Itilian Food",
+    imgUrl: "https://cdn3d.iconscout.com/3d/premium/thumb/slice-of-pizza-with-mushrooms-4355230-3632430.png?f=webp",
   },
 
   {
     display: "Asian Food",
-    imgUrl: categoryImg03,
+    imgUrl: "https://static.vecteezy.com/system/resources/previews/018/743/233/original/3d-illustration-of-asian-food-dango-japanese-food-png.png",
   },
 
   {
-    display: "Row Meat",
-    imgUrl: categoryImg04,
+    display: "Chinese Food",
+    imgUrl: "https://cdn3d.iconscout.com/3d/premium/thumb/ramen-noodles-4894302-4077840.png",
   },
 ];
 

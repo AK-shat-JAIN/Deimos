@@ -1,5 +1,9 @@
 
-# Deimos
+# Las Deimos
+
+" Experience the taste of the cosmos with every bite ! 🚀"
+
+![App Screenshot](https://github.com/Zoronium/Deimos/blob/main/Las%20Deimos.png?raw=true)
 
 Welcome to Las Deimos, the first restaurant on Mars! Located in the heart of the Martian colony, our restaurant offers a unique dining experience that is out of this world. As you step inside, you'll be transported to a futuristic atmosphere that is inspired by the surrounding Martian landscape.
 
@@ -7,60 +11,30 @@ Our menu features a wide range of dishes that are designed to satisfy the appeti
 
 At Las Deimos, we pride ourselves on providing excellent service and a memorable dining experience. Our friendly and knowledgeable staff are trained to handle the challenges of life on Mars, and they are always ready to assist you with any requests or questions you may have.
 
-Whether you're a colonist looking for a taste of home or a space traveler exploring the Red Planet, Red Planet Bistro is the perfect place to enjoy a meal and connect with other members of the Martian community. Come and join us for an unforgettable culinary journey on the fourth planet from the sun!!  
-
-![Logo](./Untitled%20design.png)
+Whether you're a colonist looking for a taste of home or a space traveler exploring the Red Planet, Red Planet Bistro is the perfect place to enjoy a meal and connect with other members of the Martian community. Come and join us for an unforgettable culinary journey on the fourth planet from the sun!
 
 
-## Authors
+## Amneties
 
-- [@Zoronium](https://www.github.com/Zoronium)
-- [@Beingfarazkhan](https://github.com/Beingfarazkhan)
-- [@Tushar12146](https://github.com/Tushar12146)
-- [@abhinavcodedeveloper](https://github.com/abhinavcodedeveloper)
-
-
-## Badges
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
-
-## Demo
-
-Insert gif or link to demo
+![App Screenshot](https://github.com/Zoronium/Deimos/blob/main/Faster%20Delivery.png?raw=true)
+![App Screenshot](https://github.com/Zoronium/Deimos/blob/main/fullyAutomated.png?raw=true)
+![App Screenshot](https://github.com/Zoronium/Deimos/blob/main/paymentOpts.png?raw=true)
 
 
-## Deployment
 
-To deploy this project run
+## Main Header
+## Features
 
-```bash
-  npm run dev
-```
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
 
 
-## Run Locally
+## Feedback
 
-Clone the project
+If you have any feedback please do let us know !
 
-```bash
-  git clone https://github.com/Zoronium/Deimos.git
-```
+![App Screenshot](https://github.com/Zoronium/Deimos/blob/main/feedbackQR.gif?raw=true)
 
-Go to the project directory
-
-```bash
-  cd Deimos
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
+https://forms.gle/agC99Z1NemFVu2cM7
