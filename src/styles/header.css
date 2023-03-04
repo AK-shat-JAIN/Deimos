@@ -31,11 +31,11 @@
 }
 
 .menu a:hover {
-  color: #df2020;
+  color: linear-gradient(#FF6B00,#FFA800);
 }
 
 .active__menu {
-  color: #df2020 !important;
+  color: linear-gradient(#FF6B00,#FFA800) !important;
 }
 
 .cart__icon i,
