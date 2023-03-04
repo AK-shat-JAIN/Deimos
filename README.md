@@ -7,7 +7,7 @@ Our menu features a wide range of dishes that are designed to satisfy the appeti
 
 At Las Deimos, we pride ourselves on providing excellent service and a memorable dining experience. Our friendly and knowledgeable staff are trained to handle the challenges of life on Mars, and they are always ready to assist you with any requests or questions you may have.
 
-Whether you're a colonist looking for a taste of home or a space traveler exploring the Red Planet, Red Planet Bistro is the perfect place to enjoy a meal and connect with other members of the Martian community. Come and join us for an unforgettable culinary journey on the fourth planet from the sun!  
+Whether you're a colonist looking for a taste of home or a space traveler exploring the Red Planet, Red Planet Bistro is the perfect place to enjoy a meal and connect with other members of the Martian community. Come and join us for an unforgettable culinary journey on the fourth planet from the sun!!  
 
 ![Logo](./Untitled%20design.png)
 
