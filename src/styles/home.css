@@ -14,7 +14,9 @@
   color: #777;
 }
 
-
+#itemDesc{
+  background:none !important;
+}
 .food__category {
   background: linear-gradient(to right,#FF6B00,#FFA800);
   text-align: center;
