@@ -93,7 +93,7 @@ const Home = () => {
 
   return (
     <Helmet title="Home">
-      <section>
+      <section className="back">
         <Container>
           <Row>
             <Col lg="6" md="6">
@@ -104,9 +104,16 @@ const Home = () => {
                   <span> your door</span>
                 </h1>
 
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-                  magni delectus tenetur autem, sint veritatis!
+                <p style={
+                  {
+                    color:'white'
+                  }
+                }>
+                  Welcome to Las Deimos, the first restaurant on Mars! Located
+                  in the heart of the Martian colony, our restaurant offers a
+                  unique dining experience that is out of this world. As you
+                  step inside, you'll be transported to a futuristic atmosphere
+                  that is inspired by the surrounding Martian landscape.
                 </p>
 
                 <div className="hero__btns d-flex align-items-center gap-5 mt-4">
