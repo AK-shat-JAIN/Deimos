@@ -10,6 +10,7 @@ import ReactPaginate from "react-paginate";
 
 import "../styles/all-foods.css";
 import "../styles/pagination.css";
+import fetchData from "../assets/fake-data/fetch";
 
 const AllFoods = () => {
   const [searchTerm, setSearchTerm] = useState("");

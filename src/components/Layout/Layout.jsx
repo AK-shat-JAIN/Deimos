@@ -6,13 +6,17 @@ import Routes from "../../routes/Routers";
 
 import Carts from "../UI/cart/Carts.jsx";
 import { useSelector } from "react-redux";
+import Fetch from "../../assets/fake-data/fetch.jsx";
 
 const Layout = () => {
   const showCart = useSelector((state) => state.cartUi.cartIsVisible);
   return (
     <div>
       <Header />
+      <Fetch/>
       {showCart && <Carts />}
+
+
       <div>
         <Routes />
       </div>
