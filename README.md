@@ -66,6 +66,7 @@ Whether you're a colonist looking for a taste of home or a space traveler explor
 
 <br/>  
 ## Main Header
+
 ## Features
 
 - Light/dark mode toggle
@@ -73,7 +74,20 @@ Whether you're a colonist looking for a taste of home or a space traveler explor
 - Fullscreen mode
 - Cross platform
 
+## Authors
 
+- [@zoronium](https://www.github.com/zoronium)  👌
+
+- [@beingfarazkhan](https://www.github.com/beingfarazkhan)  🚀
+
+- [@abhinavcodedeveloper](https://www.github.com/abhinavcodedeveloper)  😁
+
+- [@AK-shat-JAIN](https://www.github.com/AK-shat-JAIN)  😍
+
+- [@Aditi-1709](https://www.github.com/Aditi-1709)  😂
+
+- [@Tushar12146](https://www.github.com/Tushar12146)  🤣
+<br/> 
 ## Feedback
 
 If you have any feedback please do let us know !
@@ -81,3 +95,47 @@ If you have any feedback please do let us know !
 ![App Screenshot](https://github.com/Zoronium/Deimos/blob/main/feedbackQR.gif?raw=true)
 
 https://forms.gle/agC99Z1NemFVu2cM7
+
+## Appendix
+
+Documentation Regarding Installation and Deployment
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
+    
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Zoronium/Deimos/
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
