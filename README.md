@@ -14,14 +14,18 @@ At Las Deimos, we pride ourselves on providing excellent service and a memorable
 Whether you're a colonist looking for a taste of home or a space traveler exploring the Red Planet, Red Planet Bistro is the perfect place to enjoy a meal and connect with other members of the Martian community. Come and join us for an unforgettable culinary journey on the fourth planet from the sun!
 
 
+
 ## Amneties
 
-![App Screenshot](https://github.com/Zoronium/Deimos/blob/main/Faster%20Delivery.png?raw=true)
-![App Screenshot](https://github.com/Zoronium/Deimos/blob/main/fullyAutomated.png?raw=true)
-![App Screenshot](https://github.com/Zoronium/Deimos/blob/main/paymentOpts.png?raw=true)
+![App Screenshot](https://github.com/Zoronium/Deimos/blob/main/deimos1.png?raw=true)
+
+![App Screenshot](https://github.com/Zoronium/Deimos/blob/main/deimos2.png?raw=true)
+
+![App Screenshot](https://github.com/Zoronium/Deimos/blob/main/deimos3.png?raw=true)
 
 
-### Frontend  
+
+## Frontend  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -45,7 +49,7 @@ Whether you're a colonist looking for a taste of home or a space traveler explor
 
 
 
-### Backend  
+## Backend  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
